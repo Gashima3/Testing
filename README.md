@@ -1,3 +1,3 @@
-# Testing
-Lets try to use Git
-and dont fking around in ff205
+
+Try to test your flask by runing the code in "suck my d"
+knni
